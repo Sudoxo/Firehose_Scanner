@@ -1,0 +1,169 @@
+
+################
+hora: 18:18:57
+SUB: actualidad
+acción: comment
+me/co: 7/6
+noticia: Qasem Soleimani: ¿Cuánto poder militar tiene realmente Irán?
+quién/qué: Ed_Hunter
+estado: pendiente
+################
+hora: 18:18:53
+SUB: cultura
+acción: vote
+me/co: 314/49
+noticia: El boicot cainita que dejó sin el Nobel de Literatura a Benito Pérez Galdós
+quién/qué: 91.250&hellip;
+estado: publicada
+################
+hora: 18:18:53
+SUB: actualidad
+acción: vote
+me/co: 277/26
+noticia: Una residencia de ancianos, en el punto de mira por condiciones insalubres
+quién/qué: 84.126&hellip;
+estado: publicada
+################
+hora: 18:18:51
+SUB: actualidad
+acción: comment
+me/co: 6/5
+noticia: Bolsonaro, 'on fire' por los incendios en Australia
+quién/qué: H_is_back
+estado: pendiente
+################
+hora: 18:18:49
+SUB: actualidad
+acción: vote
+me/co: 287/45
+noticia: Soleimani y la peligrosa escalada de asesinatos estadounidense
+quién/qué: 84.126&hellip;
+estado: publicada
+################
+hora: 18:18:49
+SUB: actualidad
+acción: comment
+me/co: 57/37
+noticia: A disposición judicial tres hombres por abusos a una mujer en Teruel
+quién/qué: Guanarteme
+estado: publicada
+################
+hora: 18:18:47
+SUB: actualidad
+acción: vote
+me/co: 1/0
+noticia: Un móvil como el peor regalo de Reyes
+quién/qué: japego
+estado: pendiente
+################
+hora: 18:18:47
+SUB: actualidad
+acción: new
+me/co: 1/0
+noticia: Un móvil como el peor regalo de Reyes
+quién/qué: japego
+estado: pendiente
+################
+hora: 18:18:44
+SUB: tecnología
+acción: comment
+me/co: 29/6
+noticia: El Barcelona Supercomputing Center diseña el primer chip de código abierto de España
+quién/qué: PoIicleto
+estado: pendiente
+################
+hora: 18:18:40
+SUB: tecnología
+acción: vote
+me/co: 29/6
+noticia: El Barcelona Supercomputing Center diseña el primer chip de código abierto de España
+quién/qué: memmaker650
+estado: pendiente
+################
+hora: 18:18:38
+SUB: actualidad
+acción: vote
+me/co: 15/3
+noticia: Carta abierta de una víctima de ETA a la derecha: &quot;¿Por qué no se callan?&quot;
+quién/qué: gueltxo
+estado: pendiente
+################
+hora: 18:18:36
+SUB: actualidad
+acción: vote
+me/co: 57/37
+noticia: A disposición judicial tres hombres por abusos a una mujer en Teruel
+quién/qué: 91.250&hellip;
+estado: publicada
+################
+hora: 18:18:29
+SUB: Artículos
+acción: vote
+me/co: 676/149
+noticia: Anciana con el brazo roto desde hace un mes sin atender... pero tenemos una sanidad de calidad
+quién/qué: 46.37&hellip;
+estado: publicada
+################
+hora: 18:18:22
+SUB: actualidad
+acción: vote
+me/co: 47/9
+noticia: Hijos de socialistas asesinados por ETA responden al PP
+quién/qué: mascachicles
+estado: pendiente
+################
+hora: 18:18:21
+SUB: actualidad
+acción: vote
+me/co: 302/32
+noticia: Entramos en el laberinto de los secretos de Estado en España
+quién/qué: 79.109&hellip;
+estado: publicada
+################
+hora: 18:18:20
+SUB: cultura
+acción: vote
+me/co: 39/19
+noticia: Listado de los bancos que suben las comisiones en 2020 y endurecen los requisitos
+quién/qué: Malvidious
+estado: pendiente
+################
+hora: 18:18:16
+SUB: cultura
+acción: new
+me/co: 1/0
+noticia: Descubren un detalle en el David de Miguel Ángel que pasó inadvertido por 500 años
+quién/qué: TheWay
+estado: pendiente
+################
+hora: 18:18:06
+SUB: actualidad
+acción: comment
+me/co: 528/162
+noticia: Trabajo 4 días, 6 horas y mismo sueldo: la propuesta de Finlandia en el empleo
+quién/qué: Ana2017
+estado: publicada
+################
+hora: 18:17:52
+SUB: actualidad
+acción: comment
+me/co: 15/3
+noticia: Carta abierta de una víctima de ETA a la derecha: &quot;¿Por qué no se callan?&quot;
+quién/qué: ur_quan_master
+estado: pendiente
+################
+hora: 18:17:46
+SUB: cultura
+acción: cedited
+me/co: 1/2
+noticia: La huida a Egipto y la matanza de los inocentes
+quién/qué: Møteplass
+estado: pendiente
+################
+hora: 18:17:36
+SUB: actualidad
+acción: comment
+me/co: 3/4
+noticia: La OTAN convoca una reunión urgente de embajadores este lunes para tratar la crisis por la muerte de Soleimani
+quién/qué: ailian
+estado: pendiente
