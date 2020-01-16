@@ -9,7 +9,7 @@ def int_to_time(x):
 last = [0,"","",""]
 def parse(c, conn):
     global last
-    with urllib.request.urlopen("https://www.meneame.net/backend/sneaker2") as url:
+    with urllib.request.urlopen("https://www.meneame.net/backend/sneaker2?time=" + str(last[0] - 1)) as url:
         data = json.loads(url.read().decode())
     flag = 0
     for e in reversed(data['events']):
@@ -26,7 +26,7 @@ def parse(c, conn):
                     flag = 1
                 continue
         flag = 1
-        ############print(str(t) + "    " + tit)
+        print(str(t) + "    " + tit)
         if(act == "post" or act == "new"):
             print("Inserted: " + tit)
             c.execute('INSERT INTO articles VALUES (?,?,?,?)', [tit, lin, wh, t])
